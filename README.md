@@ -1,6 +1,6 @@
 # Docker: PHP & MySQL
 
-Instala rápidamente un ambiente de desarrollo local para trabajar con [PHP](https://www.php.net/) y [MySQL](https://www.mysql.com/) utilizando [Docker](https://www.docker.com). 
+Instalacion un ambiente de desarrollo local para trabajar con [PHP](https://www.php.net/) y [MySQL](https://www.mysql.com/) utilizando [Docker](https://www.docker.com). 
 
 Utilizar *Docker* es sencillo, pero existen tantas imágenes, versiones y formas para crear los contenedores que hacen tediosa esta tarea. Este proyecto ofrece una instalación rápida, con versiones estandar y con la mínima cantidad de modificaciones a las imágenes de Docker. Viene configurado con  `PHP 7.3` y `MySQL 5.7`.
 
@@ -61,3 +61,7 @@ Las credenciales por defecto para la conexión son:
 | Usuario | Clave | Base de datos |
 |:---:|:---:|:---:|
 | dbuser | dbpass | dbname |
+
+
+### Capturas de pantalla
+
