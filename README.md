@@ -64,6 +64,6 @@ Las credenciales por defecto para la conexión son:
 
 
 ### Capturas de pantalla
-(https://raw.githubusercontent.com/gabrigomezayuso/docker-php-mysql/master/assets/2.png)
-(https://raw.githubusercontent.com/gabrigomezayuso/docker-php-mysql/master/assets/3.png)
+![alt text](assets/2.png)
+![alt text](assets/3.png)
 
